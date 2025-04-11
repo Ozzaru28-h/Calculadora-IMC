@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AplicacionPooNombreEstudiante</string>
+
+    <string name="Calculadora_IMC">Calculadora de IMC</string>
+
+    <string name="IgNombre">Ingrese su nombre</string>
+
+    <string name="Guardar_datos">Guardar Datos"</string>
+
+    <string name="Ver_Registros">Ver Registros</string>
+
+    <string name="Femenino">Femenino</string>
+
+    <string name="Masculino">Masculino</string>
+
+    <string name="Peso">Peso en kg</string>
+
+    <string name="Altura">Altura en metros</string>
+
+</resources>
